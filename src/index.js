@@ -67,7 +67,7 @@ import './index.css';
             history: history.concat([{
                 squares: squares,
             }]),
-            stepNumber = history.length,
+            stepNumber: history.length,
             xIsNext: !this.state.xIsNext
         });
     }
