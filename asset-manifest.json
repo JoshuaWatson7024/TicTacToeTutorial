@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TicTacToeTutorial/static/css/main.15e1948f.chunk.css",
+    "main.js": "/TicTacToeTutorial/static/js/main.d7d98e6a.chunk.js",
+    "main.js.map": "/TicTacToeTutorial/static/js/main.d7d98e6a.chunk.js.map",
+    "runtime-main.js": "/TicTacToeTutorial/static/js/runtime-main.fd1fc2ca.js",
+    "runtime-main.js.map": "/TicTacToeTutorial/static/js/runtime-main.fd1fc2ca.js.map",
+    "static/js/2.258b24ac.chunk.js": "/TicTacToeTutorial/static/js/2.258b24ac.chunk.js",
+    "static/js/2.258b24ac.chunk.js.map": "/TicTacToeTutorial/static/js/2.258b24ac.chunk.js.map",
+    "index.html": "/TicTacToeTutorial/index.html",
+    "static/css/main.15e1948f.chunk.css.map": "/TicTacToeTutorial/static/css/main.15e1948f.chunk.css.map",
+    "static/js/2.258b24ac.chunk.js.LICENSE.txt": "/TicTacToeTutorial/static/js/2.258b24ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1fc2ca.js",
+    "static/js/2.258b24ac.chunk.js",
+    "static/css/main.15e1948f.chunk.css",
+    "static/js/main.d7d98e6a.chunk.js"
+  ]
+}
